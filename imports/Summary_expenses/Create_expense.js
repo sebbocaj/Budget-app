@@ -39,6 +39,7 @@ export default class Create_expense extends React.Component{
 
                 
                     <div onClick={this.ChooseCategory.bind(this)}>
+                    <p>Choose a category</p>
                         <img name="Restaurant" src="http://res.cloudinary.com/dygu6sw0x/image/upload/v1524498150/restaurant.png"/>
                         <img name="Transport" src="http://res.cloudinary.com/dygu6sw0x/image/upload/v1524499475/transport.png"/>
                         <img name="Hotel" src="http://res.cloudinary.com/dygu6sw0x/image/upload/v1524499531/hotel.png"/>

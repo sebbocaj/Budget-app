@@ -114,9 +114,9 @@ ul {
 }
 
 .header_project img{
-    position:fixed;
-    left: 50px;
-     top: 51px;
+    position:relative;
+    left: -150px;
+     top: 5px;
 }
 
 
@@ -193,12 +193,12 @@ ul {
     overflow: hidden;
     position: fixed; 
     bottom: 80px; 
-    width: 100%;
+    width: 555px;
     text-align: center;
 }
 
 .create_button_expense img:active{
-   width:15%;
+   opacity: 0.2;
 }
 
 .submit_button_expense {    
