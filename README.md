@@ -13,5 +13,5 @@
 
 <h1>Demo</h1>
 <p>https://budget-tracker-app.herokuapp.com/</p>
-
-<u>The aim of this app was for training. I did not put all the feature a real app should have</u>
+<br/><br/>
+<b>The aim of this app was for training. I did not put all the feature a real app should have</b>
