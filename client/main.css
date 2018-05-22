@@ -175,7 +175,7 @@ ul {
 }
 
 .create_expense div:nth-of-type(2) img{
-    margin:10px auto;
+    margin:0px auto 10px auto;
 }
 
 .create_expense img:active{
