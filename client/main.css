@@ -179,7 +179,7 @@ ul {
 }
 
 .create_expense img:active{
-    width: 60%;
+    opacity: 0.2;
  }
 
 .create_expense input{
