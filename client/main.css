@@ -24,16 +24,6 @@ ul {
 	justify-content: center;
 }
 
-.menu {
-    display:grid;
-    grid-template-columns: auto auto;
-    position: fixed; 
-    bottom: 0; 
-    width: 550px;
-    height:80px;
-    text-align: center;
-}
-
 
 /*-------------------------------------------- Projects -----------------------------------*/
 
@@ -120,7 +110,6 @@ ul {
     font-family:arial rounded mt;
     position: fixed;
     top: 0;
-    left: 0;
     z-index: 202;
 }
 
@@ -215,7 +204,7 @@ ul {
 .submit_button_expense {    
     position: fixed; 
     bottom: 200; 
-    width: 100%;
+    width: 550px;
     height:80px;
     text-align: center;
 }
@@ -234,7 +223,7 @@ ul {
     grid-template-columns: auto auto;
     position: fixed; 
     bottom: 0; 
-    width: 100%;
+    width: 550px;
     text-align: center;
     align-items: center;
 }
