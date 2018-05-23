@@ -16,4 +16,4 @@
 <br/><br/>
 <b>The aim of this app was for training. I did not put all the feature a real app should have.</b>
 <br/><br/>
-<b>This application is suppose to be for mobile but for demo purpose i transform it to web app</b>
+<b>This application is suppose to be for mobile, but for demo purpose i transform it to web app</b>
